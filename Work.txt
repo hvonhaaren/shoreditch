@@ -1,1 +1,2 @@
+This is the beginning of my file
 this is a super easy to use file and we'll use it later
